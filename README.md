@@ -34,7 +34,7 @@ Este projeto é um serviço de backend para a geração de QR Codes. A aplicaç�
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
+    git clone [https://github.com/KayoWeiber/qrCode-Generate-AWS](https://github.com/KayoWeiber/qrCode-Generate-AWS)
     ```
 
 2.  **Navegue até o diretório do projeto:**
